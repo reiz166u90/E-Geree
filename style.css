@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+h1{
+    display: none;
+}
 body{
     background-color: white;
     color: #001e62;

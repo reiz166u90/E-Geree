@@ -83,3 +83,6 @@ h2{
 header nav{
     margin-right: 30%;
 }
+h1{
+    display: none;
+}
