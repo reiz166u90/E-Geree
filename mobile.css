@@ -8,12 +8,14 @@
     display: block;
     margin-top: 10px;
     background-color: white;
+
  }
  .mobile-menu li{
     margin-top: 10px;
  }
  .hamburger-icon ul {
     background-color: white;
+    height: 200px;
  }
 
 
